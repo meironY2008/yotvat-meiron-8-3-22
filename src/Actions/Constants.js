@@ -27,9 +27,7 @@ export const GEO_REQUEST = "GEO_REQUEST";
 export const GEO_SUCCESS = "GEO_SUCCESS";
 export const GEO_FAIL = "GEO_FAIL";
 
-// export const API = 'ijSl7U5QJFCC8i3q3ALE1MjVBGNyI6S2';
 
-export const API = '3nGX9a7hZNlt6jyEB0UfnAx4HhUANnyM';
-// export const API = process.env.REACT_APP_API_KEY;
+export const API = process.env.REACT_APP_API_KEY;
 
-// export const API = 'PvZbdp7mGYjcDAkpA2dSw4L4ufw8SKS7';
+
