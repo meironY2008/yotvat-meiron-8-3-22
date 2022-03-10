@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.37f8784a.chunk.css",
-    "main.js": "/static/js/main.aef93ec9.chunk.js",
-    "main.js.map": "/static/js/main.aef93ec9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43db7ce0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43db7ce0.js.map",
-    "static/js/2.11f479e9.chunk.js": "/static/js/2.11f479e9.chunk.js",
-    "static/js/2.11f479e9.chunk.js.map": "/static/js/2.11f479e9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.37f8784a.chunk.css.map": "/static/css/main.37f8784a.chunk.css.map",
-    "static/js/2.11f479e9.chunk.js.LICENSE.txt": "/static/js/2.11f479e9.chunk.js.LICENSE.txt"
+    "main.css": "/yotvat-meiron-8-3-22/static/css/main.37f8784a.chunk.css",
+    "main.js": "/yotvat-meiron-8-3-22/static/js/main.aef93ec9.chunk.js",
+    "main.js.map": "/yotvat-meiron-8-3-22/static/js/main.aef93ec9.chunk.js.map",
+    "runtime-main.js": "/yotvat-meiron-8-3-22/static/js/runtime-main.fbac4353.js",
+    "runtime-main.js.map": "/yotvat-meiron-8-3-22/static/js/runtime-main.fbac4353.js.map",
+    "static/js/2.11f479e9.chunk.js": "/yotvat-meiron-8-3-22/static/js/2.11f479e9.chunk.js",
+    "static/js/2.11f479e9.chunk.js.map": "/yotvat-meiron-8-3-22/static/js/2.11f479e9.chunk.js.map",
+    "index.html": "/yotvat-meiron-8-3-22/index.html",
+    "static/css/main.37f8784a.chunk.css.map": "/yotvat-meiron-8-3-22/static/css/main.37f8784a.chunk.css.map",
+    "static/js/2.11f479e9.chunk.js.LICENSE.txt": "/yotvat-meiron-8-3-22/static/js/2.11f479e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.43db7ce0.js",
+    "static/js/runtime-main.fbac4353.js",
     "static/js/2.11f479e9.chunk.js",
     "static/css/main.37f8784a.chunk.css",
     "static/js/main.aef93ec9.chunk.js"
